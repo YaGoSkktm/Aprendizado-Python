@@ -17,12 +17,11 @@ O Python não inclui todos os comandos possíveis por padrão para se manter lev
 
 Existem duas formas principais de importar módulos:
 
-✅ Importação Geral (`import`)
-Traz **todas as funcionalidades** do módulo de uma vez.  
+✅ Importação Geral (import)
+Traz todas as funcionalidades do módulo de uma vez.  
 Para usar uma função, você precisa **especificar o nome do módulo primeiro**.
 
 Exemplo:
-```python
 import math
 
 raiz = math.sqrt(25)
