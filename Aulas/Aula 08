@@ -1,10 +1,10 @@
-# 📚 Aula 8: Utilizando **Módulos** em Python
+📚 Aula 8: Utilizando **Módulos** em Python
 
 Nesta aula, o foco é entender como utilizar **módulos** para adicionar novas funcionalidades aos nossos programas em Python. 🚀  
 
 ---
 
-## 🔹 1. O que são Módulos?
+🔹 1. O que são Módulos?
 
 Pense nos módulos como **"bibliotecas" de código** que já vêm com funções prontas.  
 O Python não inclui todos os comandos possíveis por padrão para se manter leve e rápido.  
@@ -13,11 +13,11 @@ O Python não inclui todos os comandos possíveis por padrão para se manter lev
 
 ---
 
-## 🔹 2. Como Importar e Usar Módulos
+🔹 2. Como Importar e Usar Módulos
 
 Existem duas formas principais de importar módulos:
 
-### ✅ Importação Geral (`import`)
+✅ Importação Geral (`import`)
 Traz **todas as funcionalidades** do módulo de uma vez.  
 Para usar uma função, você precisa **especificar o nome do módulo primeiro**.
 
