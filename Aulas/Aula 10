@@ -1,0 +1,16 @@
+🔀 Estruturas Condicionais em Python
+
+Nesta aula, o foco é em como desviar o fluxo de um programa, permitindo que ele tome decisões e siga caminhos diferentes.
+
+🤔 Condições Simples e Compostas
+
+O programa pode executar um bloco de código apenas se uma condição for verdadeira (condição simples) ou pode escolher entre dois blocos: um para o caso verdadeiro e outro para o caso falso (condição composta).
+
+✅ Comandos if e else ❌
+
+- O if (se) cria um desvio condicional. O bloco de código dentro dele só é executado se a condição for atendida.
+- O else (senão) é executado quando a condição do `if` não é atendida.
+
+👉 A Importância da Indentação
+
+Em Python, o que define qual trecho de código pertence ao if e qual pertence ao else é o recuo (a indentação) na linha. Esse alinhamento é fundamental e obrigatório para o funcionamento das condições.
