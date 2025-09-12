@@ -1,12 +1,12 @@
-# 🐍 Manipulação de Cadeias de Caracteres (Strings) em Python
+🐍 Manipulação de Cadeias de Caracteres (Strings) em Python
 
 Uma `string` é uma sequência de caracteres. Em Python, podemos manipular essas sequências de várias maneiras para analisar, transformar e organizar textos.
 
-### 🔪 Fatiamento (Slicing)
+🔪 Fatiamento (Slicing)
 
 É a técnica usada para obter partes específicas de uma string. Utilizando colchetes, podemos definir o índice de início, de fim e até o intervalo de "pulo" para extrair um pedaço do texto.
 
-### 📊 Análise de Strings
+📊 Análise de Strings
 
 Existem funções para extrair informações de uma string, como:
 
@@ -15,7 +15,7 @@ Existem funções para extrair informações de uma string, como:
 - Encontrar a posição de um trecho de texto.
 - Verificar se uma palavra existe dentro da string.
 
-### ✨ Transformação de Strings
+✨ Transformação de Strings
 
 Podemos modificar uma string de várias formas, como:
 
@@ -24,7 +24,7 @@ Podemos modificar uma string de várias formas, como:
 - Ajustar a capitalização (apenas a primeira letra da frase ou de cada palavra em maiúsculo).
 - Remover espaços em branco inúteis do início e do final do texto.
 
-### 🔗 Divisão e Junção
+🔗 Divisão e Junção
 
 - **Divisão:** Uma string pode ser "quebrada" em uma lista de palavras ou itens, usando um caractere como separador (geralmente o espaço).
 - **Junção:** O processo inverso também é possível, unindo os itens de uma lista para formar uma única string.
